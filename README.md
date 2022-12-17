@@ -1,5 +1,4 @@
-# iSummary  WORK LOAD BASED PERSONALIZED SUMMARY
-
+# iSummary -  WORK LOAD BASED PERSONALIZED SUMMARY
 
 ### FOLDERS
 ####          java_code : The code to run the summary creator for dbpedia (can be used for other datasets too)
