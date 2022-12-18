@@ -13,7 +13,10 @@ quality, linear in the number of queries available in the query log. We
 evaluate our approach using three real-world datasets and several baselines, showing that our approach dominates other methods in terms of
 both quality and efficiency.
 
-### FOLDERS
+## Datasets section
+
+## Installation Requiremtns
+
 ####          java_code : The code to run the summary creator for dbpedia (can be used for other datasets too)
 ####          data : The data including the train-test set and rank of DBPedia nodes based on frequencies in the query log
 
