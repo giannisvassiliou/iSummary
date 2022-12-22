@@ -1,1 +1,4 @@
 
+w20test THE DBPEDIA TEST DATA FILE
+w80train THE DBPEDIA TRAIN DATA FILE
+dballnodes.txt the ranking of nodes in the dataset
