@@ -25,7 +25,7 @@ JAVA 16 and newer is required
 #### w80train.tsv -- the construct (train) portion of the query log
 #### dballnodes.txt  -- rank of nodes present in query log
 
-### HOW TO RUN THE PROVIDED JAR FILE ?
+## HOW TO RUN THE PROVIDED JAR FILE ?
 
 ### You have to run it with java.  
 ## java -jar isummary testdatafilename traindatafilename nodes_ranking #how_many_nodes #choose_from
