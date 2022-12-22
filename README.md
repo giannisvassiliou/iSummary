@@ -29,8 +29,8 @@ JAVA 16 and newer is required
 
 ### You have to run it with java.  
 ## java -jar isummary testdatafilename traindatafilename nodes_ranking #how_many_nodes #choose_from
-#### testdatafilename  is the filename of the query portion to test the final summary
-#### traindatafilename is the filename of the query portion to train (to construct the summary)
+#### testdatafilename  is the filename of the query log portion to test the final summary
+#### traindatafilename is the filename of the query log  portion to train (to construct the summary)
 #### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
 #### how_many_nodes is a number to tell the system how many nodes will (at least) the final summary will have
 #### choose_from for the nodes_ranking file, you should use the first #choose_from of them
