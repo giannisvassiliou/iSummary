@@ -27,13 +27,13 @@ dballnodes.txt
 
 ### HOW TO RUN THE PROVIDED JAR FILE ?
 
-You have to run in with java.  
+### You have to run it with java.  
 ## java -jar isummary testdatafilename traindatafilename nodes_ranking #how_many_nodes #choose_from
-##### testdatafilename  is the filename of the query portion to test the final summary
-##### traindatafilename is the filename of the query portion to train (to construct the summary)
-##### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
-##### how_many_nodes is a number to tell the system how many nodes will (at least) the final summary will have
-##### choose_from for the nodes_ranking file, you should use the first #choose_from of them
+#### testdatafilename  is the filename of the query portion to test the final summary
+#### traindatafilename is the filename of the query portion to train (to construct the summary)
+#### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
+#### how_many_nodes is a number to tell the system how many nodes will (at least) the final summary will have
+#### choose_from for the nodes_ranking file, you should use the first #choose_from of them
 ## e.g java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 ### will result to a result_sum.txt file
 
