@@ -29,11 +29,11 @@ JAVA 16 and newer is required
 
 ### You have to run it with java.  
 ## java -jar isummary testdatafilename traindatafilename nodes_ranking #top_k #choose_from
-#### testdatafilename  is the filename of the query log portion to test the final summary
-#### traindatafilename is the filename of the query log  portion to train (to construct the summary)
-#### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
-#### top_k is a number to tell the system how many nodes will (at least) the final summary will have for the initial node provided
-#### choose_from for the nodes_ranking file, you should use ONE of the first #choose_from of them as initial node to connect it with its top_k
+#### 'testdatafilename'  is the filename of the query log portion to test the final summary
+#### 'traindatafilename' is the filename of the query log  portion to train (to construct the summary)
+#### 'nodes_ranking' is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
+#### #top_k is a number to tell the system how many nodes will (at least) the final summary will have for the initial node provided
+#### #choose_from ONE NODE from the nodes_ranking file,  as initial node to connect it with its top_k
 ## e.g. java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 ### will result to a result_sum.txt file
 
