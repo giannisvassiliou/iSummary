@@ -25,7 +25,7 @@ w20test.tsv
 w80train.tsv
 dballnodes.txt 
 
-##### HOW TO RUN THE PROVIDED JAR FILE ?
+### HOW TO RUN THE PROVIDED JAR FILE ?
 
 You have to run in with java.  
 #### java -jar isummary testdatafilename traindatafilename nodes_ranking #how_many_nodes #choose_from
