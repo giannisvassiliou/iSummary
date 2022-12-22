@@ -34,8 +34,8 @@ You have to run in with java.
 ##### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
 ##### how_many_nodes is a number to tell the system how many nodes will (at least) the final summary will have
 ##### choose_from for the nodes_ranking file, you should use the first #choose_from of them
-## eg java -jar w20test.tsv w80train.tsv dballnodes.txt 5 20
-## will result to a result_sum.txt file
+## e.g java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
+### will result to a result_sum.txt file
 
 
  
