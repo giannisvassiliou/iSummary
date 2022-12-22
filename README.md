@@ -20,10 +20,10 @@ both quality and efficiency.
 JAVA 16 and newer is required
 
 
-####          Data : The data including the train-test set and rank of DBPedia nodes based on frequencies in the query log
-w20test.tsv
-w80train.tsv
-dballnodes.txt 
+###          Data : The data including the train-test set and rank of DBPedia nodes based on frequencies in the query log
+#### w20test.tsv -- the test portion of query log
+#### w80train.tsv -- the construct (train) portion of the query log
+#### dballnodes.txt  -- rank of nodes present in query log
 
 ### HOW TO RUN THE PROVIDED JAR FILE ?
 
@@ -34,7 +34,7 @@ dballnodes.txt
 #### nodes_ranking is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
 #### how_many_nodes is a number to tell the system how many nodes will (at least) the final summary will have
 #### choose_from for the nodes_ranking file, you should use the first #choose_from of them
-## e.g java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
+## e.g. java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 ### will result to a result_sum.txt file
 
 
