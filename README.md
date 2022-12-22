@@ -1,4 +1,4 @@
-# TO BE UPDATED 
+
 # iSummary: Workload-based, Personalized summaries for Knowledge Graphs
 The explosion in the size and the complexity of the available Knowledge Graphs on the web has led to the need for efficient
 and effective methods for their understanding and exploration. Semantic
