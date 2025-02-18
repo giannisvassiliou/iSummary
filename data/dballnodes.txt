@@ -523,7 +523,7 @@ http://dbpedia.org/resource/The_Garden_of_the_Finzi-Continis_(film)	12
 http://dbpedia.org/resource/55_Days_at_Peking	12
 http://dbpedia.org/resource/Fire_Down_Below_(1997_film)	12
 http://dbpedia.org/resource/Kiss_Me_Deadly	12
-http://dbpedia.org/resource/Thriller_–_A_Cruel_Picture	12
+http://dbpedia.org/resource/Thriller_â_A_Cruel_Picture	12
 http://dbpedia.org/resource/The_Great_White_Hype	12
 http://dbpedia.org/resource/The_Dirty_Dozen	12
 http://dbpedia.org/resource/The_Conversation	12
@@ -1580,7 +1580,7 @@ http://dbpedia.org/resource/The_Toxic_Avenger_Part_III:_The_Last_Temptation_of_T
 http://dbpedia.org/resource/Mrs._Winterbourne	6
 http://dbpedia.org/resource/Boxing_Helena	6
 http://dbpedia.org/resource/Sillunu_Oru_Kaadhal	6
-http://dbpedia.org/resource/Sissi_–_The_Young_Empress	6
+http://dbpedia.org/resource/Sissi_â_The_Young_Empress	6
 http://dbpedia.org/resource/Blood_and_Sand_(1922_film)	6
 http://dbpedia.org/resource/Bye_Bye_Love_(film)	6
 http://dbpedia.org/resource/Fire_Over_England	6
@@ -2441,7 +2441,7 @@ http://dbpedia.org/resource/The_Taste_of_Tea	6
 http://dbpedia.org/resource/His_Regeneration	6
 http://dbpedia.org/resource/Glorifying_the_American_Girl	6
 http://dbpedia.org/resource/Come_See_the_Paradise	6
-http://dbpedia.org/resource/Hercules_and_Xena_–_The_Animated_Movie:_The_Battle_for_Mount_Olympus	6
+http://dbpedia.org/resource/Hercules_and_Xena_â_The_Animated_Movie:_The_Battle_for_Mount_Olympus	6
 http://dbpedia.org/resource/Save_the_Tiger	6
 http://dbpedia.org/resource/Warning_from_Space	6
 http://dbpedia.org/resource/Beach_Party	6
@@ -2553,7 +2553,7 @@ http://dbpedia.org/resource/Nutty_but_Nice	6
 http://dbpedia.org/resource/Mr._Jones_(film)	6
 http://dbpedia.org/resource/The_Twins_Effect	6
 http://dbpedia.org/resource/La_Chinoise	6
-http://dbpedia.org/resource/Sátántangó	6
+http://dbpedia.org/resource/SÃ¡tÃ¡ntangÃ³	6
 http://dbpedia.org/resource/A_Woman_Under_the_Influence	6
 http://dbpedia.org/resource/American_Flyers	6
 http://dbpedia.org/resource/Kuhle_Wampe	6
@@ -2618,7 +2618,7 @@ http://dbpedia.org/resource/Without_Reservations	6
 http://dbpedia.org/resource/Trinetrudu	6
 http://dbpedia.org/resource/The_Goodbye_Girl	6
 http://dbpedia.org/resource/The_Mask_of_Diijon	6
-http://dbpedia.org/resource/Lakeer_–_Forbidden_Lines	6
+http://dbpedia.org/resource/Lakeer_â_Forbidden_Lines	6
 http://dbpedia.org/resource/Along_the_Great_Divide	6
 http://dbpedia.org/resource/The_Palm_Beach_Story	6
 http://dbpedia.org/resource/The_Hatchet_Man	6
@@ -2903,7 +2903,7 @@ http://dbpedia.org/resource/Rich_and_Strange	6
 http://dbpedia.org/resource/Adolescencia	6
 http://dbpedia.org/resource/Don't_Give_Up_the_Ship_(film)	6
 http://dbpedia.org/resource/War-Gods_of_the_Deep	6
-http://dbpedia.org/resource/La_belle_ferronni�re	6
+http://dbpedia.org/resource/La_belle_ferronniï¿½re	6
 http://dbpedia.org/resource/The_Bank_(1915_film)	6
 http://dbpedia.org/resource/Spies_Like_Us	6
 http://dbpedia.org/resource/Men_Without_Women_(film)	6
@@ -3791,7 +3791,7 @@ http://dbpedia.org/resource/Jonny_Lee_Miller	4
 http://dbpedia.org/resource/Robert_Carlyle	4
 http://dbpedia.org/resource/Ross_Katz	4
 http://dbpedia.org/resource/Alfred_Hitchcock	4
-http://dbpedia.org/resource/André_Bonzel	4
+http://dbpedia.org/resource/AndrÃ©_Bonzel	4
 http://dbpedia.org/resource/Category:Association_football_venues_by_country	4
 http://dbpedia.org/resource/Hugh_O'Conor	4
 http://dbpedia.org/resource/Promozione	4
@@ -3850,7 +3850,7 @@ http://dbpedia.org/resource/Blake_Edwards	4
 http://dbpedia.org/resource/Cameron_Mitchell_(actor)	4
 http://dbpedia.org/resource/Beatrice_Webb	4
 http://dbpedia.org/resource/Allegory	4
-http://dbpedia.org/resource/Benoît_Poelvoorde	4
+http://dbpedia.org/resource/BenoÃ®t_Poelvoorde	4
 http://dbpedia.org/resource/Lawrence_Weingarten	4
 http://dbpedia.org/resource/Robert_De_Niro	4
 http://dbpedia.org/resource/Laurence_Mark	4
@@ -4173,7 +4173,7 @@ http://dbpedia.org/resource/Robert_Plant	4
 http://dbpedia.org/resource/Hugh_Grant	4
 http://dbpedia.org/resource/Catherine_Hardwicke	4
 http://dbpedia.org/resource/Arnold_Kopelson	4
-http://dbpedia.org/resource/Téa_Leoni	4
+http://dbpedia.org/resource/TÃ©a_Leoni	4
 http://dbpedia.org/resource/Jimmy_Page	4
 http://dbpedia.org/resource/Order_of_the_British_Empire	4
 http://dbpedia.org/resource/Keith_Carradine	4
@@ -4323,7 +4323,7 @@ http://dbpedia.org/resource/Roy_Scheider	4
 http://dbpedia.org/resource/Kevin_Williamson_(screenwriter)	4
 http://dbpedia.org/resource/Tiny_Sandford	4
 http://dbpedia.org/resource/Costa_Concordia	4
-http://dbpedia.org/resource/Tchéky_Karyo	4
+http://dbpedia.org/resource/TchÃ©ky_Karyo	4
 http://dbpedia.org/resource/Angelina_Jolie	4
 http://dbpedia.org/resource/Jeanetta_Arnette	4
 http://dbpedia.org/resource/Alan_Hewitt	4
@@ -4368,7 +4368,7 @@ http://dbpedia.org/resource/H?pital_d'instruction_des_arm?es_Percy	4
 http://dbpedia.org/resource/Milan	4
 http://dbpedia.org/resource/RKO_Pictures	4
 http://dbpedia.org/resource/Meryl_Streep	4
-http://dbpedia.org/resource/Ryū_Murakami	4
+http://dbpedia.org/resource/RyÅ«_Murakami	4
 http://dbpedia.org/resource/Gale_Anne_Hurd	4
 http://dbpedia.org/resource/Michael_London	4
 http://dbpedia.org/resource/John_Coltrane	4
@@ -4455,7 +4455,7 @@ http://dbpedia.org/resource/Eihi_Shiina	4
 http://dbpedia.org/resource/Peter_Grant_(music_manager)	4
 http://dbpedia.org/resource/Walter_Farley	4
 http://aims.fao.org/aos/agrovoc/c_330829	4
-http://dbpedia.org/resource/Rémy_Belvaux	4
+http://dbpedia.org/resource/RÃ©my_Belvaux	4
 http://dbpedia.org/resource/Todd_Louiso	4
 http://dbpedia.org/resource/F._Gary_Gray	4
 http://dbpedia.org/resource/Michael_Murphy_(actor)	4
@@ -4547,7 +4547,7 @@ http://dbpedia.org/resource/Peter_Clifton	4
 http://dbpedia.org/resource/Packers	4
 http://agris.fao.org/aos/records/RS2012002592	4
 http://dbpedia.org/resource/Clint_Howard	4
-http://dbpedia.org/resource/Chloë_Sevigny	4
+http://dbpedia.org/resource/ChloÃ«_Sevigny	4
 http://dbpedia.org/resource/FIFA_World_Cup	4
 http://dbpedia.org/resource/Bernard_Smith_(editor)	4
 http://dbpedia.org/class/yago/MusicalGroupsFromBoston,Massachusetts	4
@@ -4924,7 +4924,7 @@ http://dbpedia.org/resource/Jorge_Bergoglio	2
 http://dbpedia.org/resource/Gapan	2
 http://dbpedia.org/resource/Hard_rock	2
 http://dbpedia.org/resource/Category:Gifu_Prefecture	2
-http://dbpedia.org/resource/Judo_at_the_2008_Summer_Olympics_�_Men's_66_kg	2
+http://dbpedia.org/resource/Judo_at_the_2008_Summer_Olympics__Men's_66_kg	2
 http://dbpedia.org/resource/Category:Visitor_attractions_in_San_Juan_County,_Washington	2
 http://dbpedia.org/resource/Factoring	2
 http://dbpedia.org/class/yago/ExpatriatesInSpain	2
@@ -4963,7 +4963,7 @@ http://dbpedia.org/resource/Adolfo_de_la_Parra	2
 http://metasound.dibet.univpm.it/gramsci/dictionary/web/burocrazia.html	2
 http://dbpedia.org/resource/Beijing	2
 http://dbpedia.org/resource/Category:Medical_specialties	2
-http://dbpedia.org/resource/Bronisław_Kaper	2
+http://dbpedia.org/resource/BronisÅaw_Kaper	2
 http://dbpedia.org/resource/Album	2
 http://dbpedia.org/resource/Fernando_Tambroni	2
 http://aims.fao.org/aos/agrovoc/c_29198	2
@@ -5082,7 +5082,7 @@ http://dbpedia.org/resource/Terminator_2:_Judgment_Day	2
 http://dbpedia.org/resource/Corporate_law	2
 http://dbpedia.org/resource/Henri_Cartier-Bresson	2
 http://dbpedia.org/resource/Charlie_Kaufman	2
-http://dbpedia.org/resource/Cleopatra�s_Second_Husband	2
+http://dbpedia.org/resource/Cleopatras_Second_Husband	2
 http://liicornell.org/liicfr/28_CFR_part_0_subpart_A	2
 http://liicornell.org/liicfr/28_CFR_part_0_subpart_B	2
 http://dbpedia.org/resource/Wakefield_F.C.	2
@@ -5281,7 +5281,7 @@ http://agris.fao.org/aos/records/PK2010000873	2
 http://liicornell.org/liicfr/9_CFR_part_11	2
 http://dbpedia.org/resource/Adam_Faith	2
 http://dbpedia.org/resource/A_Fistful_of_Dollars	2
-http://dbpedia.org/resource/Metropolis�Hastings_algorithm	2
+http://dbpedia.org/resource/MetropolisHastings_algorithm	2
 http://dbpedia.org/resource/Bonaire	2
 http://dbpedia.org/resource/Janus_Films	2
 http://dbpedia.org/page/Syrien	2
@@ -5434,7 +5434,7 @@ http://aims.fao.org/aos/agrovoc/c_5275	2
 http://dbpedia.org/resource/Basket_Case_(song)	2
 http://dbpedia.org/resource/Russia	2
 http://dbpedia.org/resource/Sex	2
-http://dbpedia.org/page/Brașov_metropolitan_area	2
+http://dbpedia.org/page/BraÈov_metropolitan_area	2
 http://dbpedia.org/resource/Category:Soccer	2
 http://dbpedia.org/resource/Category:Music	2
 http://dbpedia.org/resource/Beat_It	2
@@ -5528,7 +5528,7 @@ http://dbpedia.org/resource/Air_(French_band)	2
 http://it.dbpedia.org/resource/Kind_of_Blue	2
 http://dbpedia.org/ontology/Person/height	2
 http://dbpedia.org/resource/Thai_Rung_Union_Car	2
-http://dbpedia.org/resource/Miklós_Rózsa	2
+http://dbpedia.org/resource/MiklÃ³s_RÃ³zsa	2
 http://dbpedia.org/resource/Author	2
 http://dbpedia.org/resource/John_F._Kennedy	2
 http://dbpedia.org/resource/Jailhouse_Rock_(film)	2
@@ -5553,7 +5553,7 @@ http://dbpedia.org/resource/Roger_Federer	2
 http://pt.dbpedia.org/resource/Fortaleza	2
 http://rdf.myexperiment.org/ontologies/contributions/Workflow	2
 http://dbpedia.org/resource/Non-coding_RNA	2
-http://dbpedia.org/resource/Alcalá_de_Henares	2
+http://dbpedia.org/resource/AlcalÃ¡_de_Henares	2
 http://dbpedia.org/resource/Nelson_Mandela	2
 http://dbpedia.org/resource/Jeeva_(director)	2
 http://dbpedia.org/resource/Prime_minister	2
@@ -5669,7 +5669,7 @@ http://dbpedia.org/class/yago/MobilePhones	2
 http://dbpedia.org/resource/Northwestern_College_(Minnesota)	2
 http://dbpedia.org/resource/Andrew_Kevin_Walker	2
 http://dbpedia.org/resource/Bruce_Springsteen	2
-http://dbpedia.org/resource/Kingdom_of_Italy_(1861�1946)	2
+http://dbpedia.org/resource/Kingdom_of_Italy_(18611946)	2
 http://liicornell.org/liicfr/28_CFR	2
 http://dbpedia.org/resource/Category:Deaths_from_diabetes	2
 http://dbpedia.org/resource/Mario_Monti	2
@@ -5759,7 +5759,7 @@ http://dbpedia.org/ontology/playerInTeam	2
 http://dbpedia.org/resource/Category:Artists	2
 http://dbpedia.org/ontology/Year	2
 http://dbpedia.org/resource/Akabanebashi_Station	2
-http://it.dbpedia.org/resource/�mile_Gaboriau	2
+http://it.dbpedia.org/resource/ï¿½mile_Gaboriau	2
 http://dbpedia.org/class/yago/PopulatedCoastalPlacesInCalifornia	2
 http://dbpedia.org/resource/Actor	2
 http://dbpedia.org/resource/South_Africa	2
@@ -5899,7 +5899,7 @@ http://dbpedia.org/resource/Big_Night	2
 http://dbpedia.org/resource/Letters_of_a_Portuguese_Nun	2
 http://dbpedia.org/resource/Florence	2
 http://dbpedia.org/resource/Brussels	2
-http://dbpedia.org/resource/Baum�Welch_algorithm	2
+http://dbpedia.org/resource/BaumWelch_algorithm	2
 http://dbpedia.org/resource/Bernard_Herrmann	2
 http://dbpedia.org/resource/Squamata	2
 http://dbpedia.org/resource/Category:Polish_politicians_who_committed_suicide	2
@@ -5989,7 +5989,7 @@ http://liicornell.org/liicfr/21_CFR_310.544	1
 http://dati.camera.it/ocd/persona.rdf/p24780	1
 http://dbpedia.org/resource/'.entity.'	1
 http://dati.camera.it/ocd/seduta.rdf/s16_601	1
-http://it.dbpedia.org/resource/F�d�ration_Internationale_de_Football_Association	1
+http://it.dbpedia.org/resource/Fï¿½dï¿½ration_Internationale_de_Football_Association	1
 http://dbpedia.org/resource/Tomatto	1
 http://dbpedia.org/resource/Elevator_to_the_Gallows	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/up15_300569_1333_21_20061026_20080428	1
@@ -6086,7 +6086,7 @@ http://dati.camera.it/ocd/incarico.rdf/i293_20440_11_19790820	1
 http://www.w3.org/2004/02/skos/core#prefLabel	1
 http://dati.camera.it/ocd/organoGoverno.rdf/ogr57_51	1
 http://it.dbpedia.org/resource/Campbell's_Soup_Cans	1
-http://dbpedia.org/resource/Bodø¸	1
+http://dbpedia.org/resource/BodÃ¸Â¸	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/upr0_2984_18821122	1
 http://dati.camera.it/ocd/seduta.rdf/sr14104	1
 http://dbpedia.org/resource/The_Last_Kiss	1
@@ -6696,7 +6696,7 @@ http://dbpedia.org/resource/Category:German_films	1
 http://dbpedia.org/resource/Museo_di_Scienze_Naturali_Enrico_Caffi	1
 http://dbpedia.org/resource/Mysterious_Doctor_Satan	1
 http://dati.camera.it/ocd/pathocd:siComponeDi/gruppoParlamentare.rdf/gr184	1
-http://fr.dbpedia.org/resource/Bertrand_Delano�	1
+http://fr.dbpedia.org/resource/Bertrand_Delanoï¿½	1
 http://dati.camera.it/ocd/pathocd:siComponeDi/gruppoParlamentare.rdf/gr186	1
 http://rlink.cineca.it/rlink#Version	1
 http://dbpedia.org/resource/Fever_Pitch_(2005_film)	1
@@ -6985,7 +6985,7 @@ http://it.dbpedia.org/resource/Categoria:Nazionali_di_calcio_dell'Italia	1
 http://dati.camera.it/ocd/seduta.rdf/sr22174	1
 http://dati.camera.it/ocd/seduta.rdf/sr22179	1
 http://lod.xdams.org/reload/oad/uodCPC/A04387	1
-http://dbpedia.org/resource/Battle_of_Tangtou�Guocun	1
+http://dbpedia.org/resource/Battle_of_TangtouGuocun	1
 http://dati.camera.it/ocd/mandatoCamera.rdf/mr491_3_30071849	1
 http://dbpedia.org/resource/Ginger_and_Fred	1
 http://lod.xdams.org/reload/oad/personeCPC/C14161	1
@@ -7146,7 +7146,7 @@ http://dbpedia.org/resource/The_Student_Prince_in_Old_Heidelberg	1
 http://dbpedia.org/ontology/place	1
 http://lod.xdams.org/reload/oad/event/M07804	1
 http://webdev1.lasp.colorado.edu:57529/vivo/individual/n3695	1
-http://dbpedia.org/resource/Renato_Gaúcho	1
+http://dbpedia.org/resource/Renato_GaÃºcho	1
 http://dbpedia.org/resource/Force	1
 http://purl.org/ASN/scheme/ASNJurisdiction/CCSS	1
 http://lod.xdams.org/reload/oad/event/A01154	1
@@ -7162,7 +7162,7 @@ http://dati.camera.it/ocd/elezione.rdf/e14_50338_20010522	1
 http://lod.xdams.org/reload/oad/personeCPC/B13629	1
 http://dati.camera.it/ocd/elezione.rdf/e14_36590_20010519	1
 http://dati.camera.it/ocd/seduta.rdf/BF_07_19781220_00_09	1
-http://fr.dbpedia.org/resource/Fran�ais	1
+http://fr.dbpedia.org/resource/Franï¿½ais	1
 http://dbpedia.org/resource/Alemtuzumab	1
 http://dbpedia.org/resource/The_Great_Yokai_War	1
 http://dati.camera.it/ocd/elezione.rdf/e12_39180_19940402	1
@@ -7348,7 +7348,7 @@ http://dati.camera.it/ocd/seduta.rdf/BF_12_40415_16	1
 http://dati.camera.it/ocd/persona.rdf/p34370	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/up11_22890_1308_21_19930623_19940414	1
 http://dbpedia.org/resource/Double_Happiness_(film)	1
-http://dbpedia.org/resource/Alfred_Döblin	1
+http://dbpedia.org/resource/Alfred_DÃ¶blin	1
 http://data.opendataday.it/resource/dati.trentino/siti-di-interesse-comunitario-regioni-confinanti-pup/distribution/dis2	1
 http://spcdata.digitpa.gov.it/UnitaOrganizzativa/11013	1
 http://dati.camera.it/ocd/elezione.rdf/e12_36980_19940412	1
@@ -7397,7 +7397,7 @@ http://dbpedia.org/resource/Death_squad	1
 http://dati.camera.it/ocd/seduta.rdf/sr09432	1
 http://ld.belastingdienst.nl/dataview/bvr/PERSNPPER/789123456	1
 http://rlink.cineca.it/rlink#PUB02	1
-http://dbpedia.org/resource/Söhne_Mannheims	1
+http://dbpedia.org/resource/SÃ¶hne_Mannheims	1
 http://dbpedia.org/resource/????????,_???????_???????????	1
 http://dati.camera.it/ocd/seduta.rdf/sr09427	1
 http://dati.camera.it/ocd/seduta.rdf/sr09425	1
@@ -7607,7 +7607,7 @@ http://dati.camera.it/ocd/membroGoverno.rdf/mg1540_5_14_17_19620224	1
 http://dati.camera.it/ocd/pathbio:Birth/persona.rdf/pr291	1
 http://dati.camera.it/ocd/legge.rdf/L1952_77	1
 http://dati.camera.it/ocd/seduta.rdf/s06_12686	1
-http://dbpedia.org/resource/Brașov_metropolitan_area	1
+http://dbpedia.org/resource/BraÈov_metropolitan_area	1
 http://spcdata.digitpa.gov.it/UnitaOrganizzativa/11197	1
 http://dati.camera.it/ocd/mandatoCamera.rdf/mc7_180_19760701	1
 http://dati.camera.it/ocd/persona.rdf/p34260	1
@@ -8275,13 +8275,13 @@ http://data.opendataday.it/resource/dati.bologna/535/distribution/domandeattuali
 http://dati.camera.it/ocd/elezione.rdf/e12_37440_19940402	1
 http://live.dbpedia.org/page/	1
 http://dati.camera.it/ocd/persona.rdf/p50058	1
-http://dbpedia.org/resource/Judo_at_the_2008_Summer_Olympics_–_Men's_66_kg	1
+http://dbpedia.org/resource/Judo_at_the_2008_Summer_Olympics_â_Men's_66_kg	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/upr0_2914_18691118	1
 http://dati.camera.it/ocd/persona.rdf/pr3641	1
 http://dati.camera.it/ocd/persona.rdf/p50061	1
 http://lod.xdams.org/reload/oad/personeCPC/control/B13766	1
-http://dbpedia.org/resource/Category:UK_MPs_2010�	1
-http://en.wikipedia.org/wiki/École_Centrale_de_Lyon	1
+http://dbpedia.org/resource/Category:UK_MPs_2010	1
+http://en.wikipedia.org/wiki/Ãcole_Centrale_de_Lyon	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/upr0_2856_18670322	1
 http://dati.camera.it/ocd/discussione.rdf/disScheda_Tit_40_IdVol342_19590716	1
 http://dati.camera.it/ocd/seduta.rdf/sr24201	1
@@ -8374,7 +8374,7 @@ http://liicornell.org/liicfr/7_CFR_30.60	1
 http://liicornell.org/liicfr/7_CFR_30.61	1
 http://spcdata.digitpa.gov.it/Indirizzo/c_h501	1
 http://dbpedia.org/resource/LolliLove	1
-http://en.wikipedia.org/wiki/École_centrale_de_Lyon	1
+http://en.wikipedia.org/wiki/Ãcole_centrale_de_Lyon	1
 http://dati.camera.it/ocd/discussione.rdf/disIdDibNL2_11462_20071114	1
 http://lod.xdams.org/reload/oad/event/C00678	1
 http://dbpedia.orgcity	1
@@ -8424,7 +8424,7 @@ http://dbpedia.org/resource/Payson	1
 http://lod.xdams.org/reload/oad/event/C00663	1
 http://lod.xdams.org/reload/oad/event/C00665	1
 http://dbpedia.org/ontology/Celebrity	1
-http://dbpedia.org/resource/Bodø	1
+http://dbpedia.org/resource/BodÃ¸	1
 http://dati.camera.it/ocd/mandatoCamera.rdf/mc15_301552_20060422	1
 http://dbpedia.org/resource/The_Bridge_Studios	1
 http://dbpedia.org/resource/O'Higgins_Region	1
@@ -8480,7 +8480,7 @@ http://dbpedia/resource/Milow	1
 http://dati.camera.it/ocd/pathskos:changeNote/legge.rdf/L1978_19	1
 http://dati.camera.it/ocd/deputato.rdf/dr4093_15	1
 http://dati.camera.it/ocd/dibattito.rdf/Scheda_Tit_1010_IdVol461	1
-http://dbpedia.org/resource/Rhône-Alpes	1
+http://dbpedia.org/resource/RhÃ´ne-Alpes	1
 http://dati.camera.it/ocd/seduta.rdf/s01_227	1
 http://dati.camera.it/ocd/mandatoCamera.rdf/mr4197_3_30071849	1
 http://dati.camera.it/ocd/mandatoSenato.rdf/msr9586	1
@@ -8877,7 +8877,7 @@ http://lod.xdams.org/reload/oad/uodCPC/R04207	1
 http://dati.camera.it/ocd/ufficioParlamentare.rdf/up3_3460_816_21_19610515_19630515	1
 http://dati.camera.it/ocd/legge.rdf/L1980_19	1
 http://dbpedia.org/resource/The_Musketeers_of_Pig_Alley	1
-http://fr.dbpedia.org/resource/R�publique	1
+http://fr.dbpedia.org/resource/Rï¿½publique	1
 http://dbpedia.org/resource/Angela	1
 http://dbpedia.org/resource/Siemens	1
 http://dati.camera.it/ocd/seduta.rdf/sr13291	1
@@ -8904,7 +8904,7 @@ http://dati.camera.it/ocd/attocamera.rdf/ac16_381	1
 http://dati.camera.it/ocd/attocamera.rdf/ac07_362	1
 http://dati.camera.it/ocd/organoGoverno.rdf/og55_145	1
 http://dati.camera.it/ocd/path-ocd:rif_organo/organo.rdf/o2_749	1
-http://dbpedia.org/resources/Alcalá_de_Henares	1
+http://dbpedia.org/resources/AlcalÃ¡_de_Henares	1
 http://dbpedia.org/resource/The_Long_Absence	1
 http://dati.camera.it/ocd/membroGoverno.rdf/mgr19_46_21061894_1171	1
 http://dati.camera.it/ocd/seduta.rdf/BF_07_19771207_00_09	1
@@ -9105,7 +9105,7 @@ http://dati.camera.it/ocd/mandatoCamera.rdf/mc13_35370_19960509	1
 http://dati.camera.it/ocd/pathocd:haMembro/organo.rdf/or23_1_60	1
 http://dati.camera.it/ocd/mandatoSenato.rdf/ms6_18360_19720514	1
 http://dbpedia.org/resource/Zombi_2	1
-http://it.dbpedia.org/resource/Montr�al	1
+http://it.dbpedia.org/resource/Montrï¿½al	1
 http://dbpedia.org/resource/Lawyer	1
 http://dati.camera.it/ocd/seduta.rdf/BF_12_40159_07	1
 http://dati.senato.it/votazione/13-489-4	1
@@ -9271,7 +9271,7 @@ http://lod.xdams.org/reload/oad/event/B02613	1
 http://dati.camera.it/ocd/seduta.rdf/sr01106	1
 http://dati.camera.it/ocd/seduta.rdf/sr01105	1
 http://lod.xdams.org/reload/oad/event/B02610	1
-http://it.dbpedia.org/resource/Paulo_Roberto_Falc�o	1
+http://it.dbpedia.org/resource/Paulo_Roberto_Falcï¿½o	1
 http://dbpedia.org/resource/Proof_of_Life	1
 http://dbpedia/resource/Jonathan_Vandenbroeck	1
 http://dati.camera.it/ocd/attocamera.rdf/CD1100034822	1
@@ -9616,7 +9616,7 @@ http://dati.camera.it/ocd/path-ocd:rif_attocamera/attocamera.rdf/accostituente_6
 http://dbpedia.org/resource/Shell_Canada	1
 http://dbpedia.org/class/yago/ActorsFromNewYork	1
 http://dbpedia.org/resource/Malcolm_X_(film)	1
-http://dbpedia.org/resource/Slovak�Hungarian_War	1
+http://dbpedia.org/resource/SlovakHungarian_War	1
 http://dati.camera.it/ocd/seduta.rdf/BF_14_200301_0129_html_39	1
 http://dbpedia.org/resource/Hackers_(film)	1
 http://dati.camera.it/ocd/aic.rdf/aic4_02052_9	1
@@ -9694,7 +9694,7 @@ http://scbr.data.overheid.nl/brk/id/gegevenselement/Geboorteplaats_attrib-Kadnat
 http://lod.xdams.org/reload/oad/personeCPC/control/D08058	1
 http://it.dbpedia.org/resource/Scudetto	1
 http://dbpedia.org/ontology/BluesMusician	1
-http://dbpedia.org/resource/École_Centrale_de_Lyon	1
+http://dbpedia.org/resource/Ãcole_Centrale_de_Lyon	1
 http://lod.xdams.org/reload/oad/personeCPC/C12722	1
 http://dbpedia.org/resource/Viva_Entertainment	1
 http://dbpedia.org/resource/Mulan_II	1
