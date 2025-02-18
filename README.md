@@ -1,19 +1,17 @@
 
-# iSummary: Workload-based, Personalized summaries for Knowledge Graphs
-The explosion in the size and the complexity of the available Knowledge Graphs on the web has led to the need for efficient
-and effective methods for their understanding and exploration. Semantic
-summaries have recently emerged as methods to quickly explore and understand the contents of various sources. However, in most cases, they are
-static, not incorporating user needs and preferences, and cannot scale.
-In this paper, we present iSummary, a novel, scalable approach for constructing personalized summaries. As the size and the complexity of the
-Knowledge Graphs for constructing personalized summaries prohibit efficient summary construction, in our approach we exploit query logs.
-The main idea behind our approach is to exploit knowledge captured in
-existing user queries for identifying the most interesting resources and
-linking them, constructing as such high-quality, personalized summaries.
-We present an algorithm with theoretical guarantees on the summary’s
-quality, linear in the number of queries available in the query log. We
-evaluate our approach using three real-world datasets and several baselines, showing that our approach dominates other methods in terms of
-both quality and efficiency.
+# iSummary:Workload-based Selective Summaries for Knowledge Graph Exploration
 
+The rapid growth in size and complexity of Knowledge Graphs available on the web has created a pressing need for
+efficient and effective methods to facilitate their understanding and exploration. Recently, semantic summaries have emerged as a
+means to quickly comprehend and explore them. However, most existing approaches are static, failing to adapt to user needs and
+preferences, and often struggle to scale. In this paper, we introduce iSummary, a novel and scalable approach for constructing
+summaries given specific user requests in terms of nodes for the summary to be based on. Given that the size and complexity
+of Knowledge Graphs pose challenges to efficient summary construction, our approach leverages query logs. The core idea is
+to harness the knowledge embedded in existing user queries to identify the most relevant resources and establish meaningful
+connections, thereby generating high-quality summaries. We propose an algorithm with theoretical guarantees on summary
+quality, operating linearly with respect to the number of queries in the log. To assess our method, we conduct experiments using
+two real-world datasets and multiple baselines, demonstrating that iSummary consistently outperforms existing techniques in
+both quality and efficiency
 
 
 ## Installation Requiremetns
