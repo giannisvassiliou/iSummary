@@ -127,24 +127,7 @@ java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 +-------------------------------+
 ```
 
----
 
-## 📄 Citation
-
-If you use this work, please cite the corresponding paper:
-
-```bibtex
-@article{Vassiliou2025iSummary,
-  title     = {iSummary: Workload-based Selective Summaries for Knowledge Graph Exploration},
-  author    = {Giannis Vassiliou and Nikolaos Papadakis and Haridimos Kondylakis},
-  journal   = {Semantic Web Journal},
-  publisher = {IOS Press},
-  year      = {2025},
-  keywords  = {Knowledge Graph, Semantic Summaries, RDF, Query Workloads}
-}
-```
-
----
 
 ## 🤝 Authors & Contact
 
