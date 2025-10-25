@@ -1,40 +1,72 @@
+# 🧠 iSummary: Workload-based Selective Summaries for Knowledge Graph Exploration
 
-# iSummary:Workload-based Selective Summaries for Knowledge Graph Exploration
+![Java](https://img.shields.io/badge/Java-16%2B-blue?style=flat-square)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+![Paper](https://img.shields.io/badge/paper-Semantic_Web_Journal_2025-lightblue?style=flat-square)
 
-The rapid growth in size and complexity of Knowledge Graphs available on the web has created a pressing need for
-efficient and effective methods to facilitate their understanding and exploration. Recently, semantic summaries have emerged as a
-means to quickly comprehend and explore them. However, most existing approaches are static, failing to adapt to user needs and
-preferences, and often struggle to scale. In this paper, we introduce iSummary, a novel and scalable approach for constructing
-summaries given specific user requests in terms of nodes for the summary to be based on. Given that the size and complexity
-of Knowledge Graphs pose challenges to efficient summary construction, our approach leverages query logs. The core idea is
-to harness the knowledge embedded in existing user queries to identify the most relevant resources and establish meaningful
-connections, thereby generating high-quality summaries. We propose an algorithm with theoretical guarantees on summary
-quality, operating linearly with respect to the number of queries in the log. To assess our method, we conduct experiments using
-two real-world datasets and multiple baselines, demonstrating that iSummary consistently outperforms existing techniques in
-both quality and efficiency
+> Official repository for the paper  
+> **“iSummary: Workload-based Selective Summaries for Knowledge Graph Exploration”**  
+> *Semantic Web Journal (IOS Press), 2025*  
+>  
+> **Authors:** Giannis Vassiliou, Nikolaos Papadakis, Haridimos Kondylakis  
+>  
+> **Affiliations:**  
+> - Electrical and Computer Engineering, Hellenic Mediterranean University, Greece  
+> - Computer Science Department, University of Crete & FORTH-ICS, Greece  
 
+---
 
-## Installation Requiremetns
-JAVA 16 and newer is required
+## 📘 Overview
 
+**iSummary** introduces a *workload-based, scalable, and adaptive* method for generating **selective semantic summaries** over large Knowledge Graphs (KGs).  
+Unlike static approaches that process the entire KG, iSummary leverages **query logs** to extract user-driven relevance and relationships — enabling **fast, context-aware summaries** tailored to user needs.
 
-###          Data : The data including the train-test set and rank of DBPedia nodes based on frequencies in the query log
-#### w20test.tsv -- the test portion of query log
-#### w80train.tsv -- the construct (train) portion of the query log
-#### dballnodes.txt  -- rank of nodes present in query log
+---
 
-## HOW TO RUN THE PROVIDED JAR FILE ?
+### 🔍 Problem Motivation
 
-### You have to run it with java.  
-## java -jar isummary testdatafilename traindatafilename nodes_ranking #top_k #choose_from
-#### 'testdatafilename'  is the filename of the query log portion to test the final summary
-#### 'traindatafilename' is the filename of the query log  portion to train (to construct the summary)
-#### 'nodes_ranking' is the filename of the descending ranking of the nodes in the query log based on their frequency of presence
-#### #top_k is a number to tell the system how many nodes will (at least) the final summary will have for the initial node provided
-#### choose ONE NODE from the first #choose_from nodes in the nodes_ranking file,  as initial node to connect it with its top_k
-## e.g. java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
-### will result to a result_sum.txt file
+- Knowledge Graphs (KGs) now contain **billions of RDF triples**, making direct exploration impractical.  
+- Existing summarization techniques are **static** and **structure-based**, often ignoring how users actually explore data.  
+- iSummary instead uses **query workloads** (SPARQL query logs) to guide summarization toward what users really query.
 
+---
 
- 
+## 🧪 Experimental Evaluation
 
+### **Datasets**
+
+| Dataset | #Queries | Graph Size | Source |
+|----------|-----------|------------|---------|
+| DBpedia v3.8 | 58,610 | 2.3 M instances | [DBpedia SPARQL Endpoint](https://dbpedia.org/sparql) |
+| Wikidata | 192,325 | 1.4 B statements | [Wikidata Query Logs](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries) |
+
+### **Setup**
+
+- Java 17 (OpenJDK)  
+- Intel i3-10100 @ 3.6 GHz, 16 GB RAM  
+- Windows 10 environment  
+
+### **Metrics**
+
+- 🧩 **Coverage** — summary completeness  
+- ⚡ **Execution time** — summarization efficiency  
+- 📈 **Summary size efficiency** — compactness and relevance
+
+### **Results Summary**
+
+- 🚀 iSummary produces summaries **up to 40× faster** than state-of-the-art baselines.  
+- 📊 Achieves **higher coverage** on both DBpedia and Wikidata workloads.  
+- 🔁 Demonstrates **linear scalability** with increasing query log size.
+
+---
+
+## ⚡ Installation & Usage
+
+### **Requirements**
+
+- **Java 16+**
+
+Check installation:
+```bash
+java -version
