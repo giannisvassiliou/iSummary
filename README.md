@@ -32,6 +32,45 @@ Unlike static approaches that process the entire KG, iSummary leverages **query 
 
 ---
 
+
+## 🧪 Experimental Evaluation
+
+### **Datasets**
+
+| Dataset | #Queries | Graph Size | Source |
+|----------|-----------|------------|---------|
+| DBpedia v3.8 | 58,610 | 2.3 M instances | [DBpedia SPARQL Endpoint](https://dbpedia.org/sparql) |
+| Wikidata | 192,325 | 1.4 B statements | [Wikidata Query Logs](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries) |
+
+### **Setup**
+
+- Java 17 (OpenJDK)  
+- Intel i3-10100 @ 3.6 GHz, 16 GB RAM  
+- Windows 10 environment  
+
+### **Metrics**
+
+- 🧩 **Coverage** — summary completeness  
+- ⚡ **Execution time** — summarization efficiency  
+- 📈 **Summary size efficiency** — compactness and relevance
+
+### **Results Summary**
+
+- 🚀 iSummary produces summaries **up to 40× faster** than state-of-the-art baselines.  
+- 📊 Achieves **higher coverage** on both DBpedia and Wikidata workloads.  
+- 🔁 Demonstrates **linear scalability** with increasing query log size.
+
+---
+
+## ⚡ Installation & Usage
+
+### **Requirements**
+
+- **Java 16+**
+
+Check installation:
+```bash
+java -version
 ## ▶️ Running iSummary
 
 Run the provided JAR file with:
