@@ -32,41 +32,95 @@ Unlike static approaches that process the entire KG, iSummary leverages **query 
 
 ---
 
-## 🧪 Experimental Evaluation
+## ▶️ Running iSummary
 
-### **Datasets**
+Run the provided JAR file with:
 
-| Dataset | #Queries | Graph Size | Source |
-|----------|-----------|------------|---------|
-| DBpedia v3.8 | 58,610 | 2.3 M instances | [DBpedia SPARQL Endpoint](https://dbpedia.org/sparql) |
-| Wikidata | 192,325 | 1.4 B statements | [Wikidata Query Logs](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries) |
+```bash
+java -jar isummary.jar <testdata> <traindata> <node_ranking> <top_k> <choose_from>
+```
 
-### **Setup**
+| Argument | Description |
+|-----------|-------------|
+| `<testdata>` | Test portion of query log |
+| `<traindata>` | Training portion of query log |
+| `<node_ranking>` | File containing ranked nodes by query frequency |
+| `<top_k>` | Minimum number of nodes in the summary |
+| `<choose_from>` | Number of top-ranked nodes to choose seed from |
 
-- Java 17 (OpenJDK)  
-- Intel i3-10100 @ 3.6 GHz, 16 GB RAM  
-- Windows 10 environment  
-
-### **Metrics**
-
-- 🧩 **Coverage** — summary completeness  
-- ⚡ **Execution time** — summarization efficiency  
-- 📈 **Summary size efficiency** — compactness and relevance
-
-### **Results Summary**
-
-- 🚀 iSummary produces summaries **up to 40× faster** than state-of-the-art baselines.  
-- 📊 Achieves **higher coverage** on both DBpedia and Wikidata workloads.  
-- 🔁 Demonstrates **linear scalability** with increasing query log size.
+### **Example**
+```bash
+java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
+```
 
 ---
 
-## ⚡ Installation & Usage
+## 📂 Data Files
 
-### **Requirements**
+| File | Description |
+|------|--------------|
+| `w20test.tsv` | Test portion of query log |
+| `w80train.tsv` | Training portion (used for summary construction) |
+| `dballnodes.txt` | Ranking of DBpedia nodes by frequency |
 
-- **Java 16+**
+---
 
-Check installation:
-```bash
-java -version
+## 🧩 System Architecture
+
+```
++-------------------------------+
+|         Query Log Q           |
++-------------------------------+
+             |
+             v
++-------------------------------+
+|  iSummary Algorithm           |
+|  - Filter queries by seeds    |
+|  - Compute node weights       |
+|  - Extract frequent patterns  |
++-------------------------------+
+             |
+             v
++-------------------------------+
+|  (λ, κ)-Selective Summary     |
+|  - Compact, interpretable     |
+|  - Relevance-driven subgraph  |
++-------------------------------+
+```
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite the corresponding paper:
+
+```bibtex
+@article{Vassiliou2025iSummary,
+  title     = {iSummary: Workload-based Selective Summaries for Knowledge Graph Exploration},
+  author    = {Giannis Vassiliou and Nikolaos Papadakis and Haridimos Kondylakis},
+  journal   = {Semantic Web Journal},
+  publisher = {IOS Press},
+  year      = {2025},
+  keywords  = {Knowledge Graph, Semantic Summaries, RDF, Query Workloads}
+}
+```
+
+---
+
+## 🤝 Authors & Contact
+
+**Giannis Vassiliou** — Hellenic Mediterranean University  
+📧 [giannisvas@ics.forth.gr](mailto:giannisvas@ics.forth.gr)
+
+**Nikolaos Papadakis** — Hellenic Mediterranean University  
+📧 [npapadak@cs.hmu.gr](mailto:npapadak@cs.hmu.gr)
+
+**Haridimos Kondylakis** — University of Crete & FORTH-ICS  
+📧 [kondylak@ics.forth.gr](mailto:kondylak@ics.forth.gr)
+
+---
+
+## 📜 License
+
+Released under the [MIT License](LICENSE).  
+Free to use, modify, and distribute for academic and research purposes.
