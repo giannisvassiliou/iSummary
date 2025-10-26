@@ -101,7 +101,7 @@ java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 | `w20test.tsv` | Test portion of query log |
 | `w80train.tsv` | Training portion (used for summary construction) |
 | `dballnodes.txt` | Ranking of DBpedia nodes by frequency |
-| https://drive.google.com/file/d/1e2UpqaCb6vFp_wDyELmDetZH8QNdx45T/view?usp=sharing 'train.txt', 'test.txt','nodes2.txt;  | Wikidata train-test portion and ranking of nodes
+| https://drive.google.com/file/d/146VSxhCMnm1Qn7ySenRp9i9JERNEtSW8/view?usp=sharing 'train.txt', 'test.txt','nodes2.txt;  | Wikidata train-test portion and ranking of nodes
 ---
 
 ## 🧩 System Architecture
