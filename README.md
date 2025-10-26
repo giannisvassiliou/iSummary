@@ -98,8 +98,8 @@ java -jar isummary.jar w20test.tsv w80train.tsv dballnodes.txt 5 20
 
 | File | Description |
 |------|--------------|
-| `w20test.tsv` | Test portion of query log |
-| `w80train.tsv` | Training portion (used for summary construction) |
+| `w20test.tsv` | DBpedia, Test portion of query log |
+| `w80train.tsv` | DBpedia, Training portion (used for summary construction) |
 | `dballnodes.txt` | Ranking of DBpedia nodes by frequency |
 | https://drive.google.com/file/d/146VSxhCMnm1Qn7ySenRp9i9JERNEtSW8/view?usp=sharing 'train.txt', 'test.txt','nodes2.txt;  | Wikidata train-test portion and ranking of nodes
 ---
